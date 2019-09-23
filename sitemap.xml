@@ -3,106 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/categories/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/projects/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/news/go-is-the-language/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/news/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/news/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/news/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/categories/news/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/tags/story2/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>/news/hugo-is-the-generator/</loc>
+    <lastmod>2019-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/news/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>/tags/story3/</loc>
+    <lastmod>2019-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>/news/linked-post/</loc>
+    <lastmod>2019-07-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>/tags/story4/</loc>
+    <lastmod>2019-07-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>/news/creating-a-new-theme/</loc>
+    <lastmod>2019-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>/tags/story1/</loc>
+    <lastmod>2019-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/news/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>/news/migrate-from-jekyll/</loc>
+    <lastmod>2019-06-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/news/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/news/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>/faq/</loc>
   </url>
   
 </urlset>
